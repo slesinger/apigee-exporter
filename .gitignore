@@ -1,0 +1,8 @@
+.build
+vendor
+bin/apigee_exporter*
+apigee_exporter
+*.tar.gz
+*.test
+*.mprof
+*-stamp
